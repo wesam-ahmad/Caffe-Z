@@ -1,0 +1,32 @@
+* {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: rgba(8, 48, 40, 0.896);
+    
+   
+  }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+  }
+  .pargraph{
+    font-weight:bolder;
+    font-size: 443%;
+  }
+  .pargraph1{
+    font-weight:bolder;
+    font-size: 300%;
+  }
+  .main{
+    background-image: url("image/background.jpg");
+    background-size: cover;
+
+  
+  }
